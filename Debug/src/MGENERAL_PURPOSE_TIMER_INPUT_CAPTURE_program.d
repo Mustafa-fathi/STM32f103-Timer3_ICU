@@ -1,0 +1,11 @@
+src/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_program.o: \
+ ../src/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_program.c \
+ ../include/LSTD_TYPES.h \
+ ../include/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_private.h \
+ ../include/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_interface.h
+
+../include/LSTD_TYPES.h:
+
+../include/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_private.h:
+
+../include/MGENERAL_PURPOSE_TIMER_INPUT_CAPTURE_interface.h:
